@@ -1,6 +1,6 @@
 '''
 Python Script to automate task of
-Deleting all the Objects
+Deleting all the Parse Objects in a Class
 
 @author Emad Ehsan
 '''
